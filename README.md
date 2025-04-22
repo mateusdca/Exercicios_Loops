@@ -1,2 +1,2 @@
 # Exercicios_While
- Resolução de exercicios While
+ Resolução de exercícios While
