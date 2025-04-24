@@ -1,4 +1,4 @@
-package Exercicios;
+package ExerciciosWhile;
 
 public class Exercicio04 {
   
